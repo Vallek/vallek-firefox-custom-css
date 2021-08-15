@@ -14,7 +14,7 @@ Dark tabs are unloaded tabs. It's very helpful to differentiate them if you have
 
 **How to apply styles**
 
-Just copy paste all files to your Firefox chrome folder in browser profile folder. To find it type about:support in address bar. Find Profile Folder > click on Open folder. There you'll find chrome folder.
+Just copy paste all files from chrome folder to your Firefox chrome folder in browser profile. To find profile location type about:support in address bar. Find Profile Folder > click on Open folder. There you'll find chrome folder.
 
 userChrome.css - this is main file for css styles. But this version imports (connects) other files.
 
