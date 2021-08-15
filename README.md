@@ -21,6 +21,7 @@ userChrome.css - this is main file for css styles. But this version imports (con
 In order to have exact same look you'll also need [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). And compact density enabled in Customize Toolbar. 
 
 **Disclaimer**
+
 Changes I made in this code is far from optimized. Just sharing what I use personally. I do update it. But mostly when update breaks something.
 
 **userContent.css**
