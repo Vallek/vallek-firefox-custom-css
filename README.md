@@ -22,7 +22,7 @@ In order to have exact same look you'll also need [XP Classic Theme](https://add
 
 **Disclaimer**
 
-Changes I made in this code is far from optimized. Just sharing what I use personally. I do update it. But mostly when update breaks something.
+Changes I made in this code are far from optimized. Just sharing what I use personally. I do update it. But mostly when browser update breaks something.
 
 **userContent.css**
 
