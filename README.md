@@ -9,6 +9,7 @@ I wanted to share it because CustomCSSforFx could be a little overwhelming:) So 
 ![](screenshot-1.png)
 
 **What's with dark tabs?**
+
 Dark tabs are unloaded tabs. It's very helpful to differentiate them if you have many tabs open. 
 
 **How to apply styles**
