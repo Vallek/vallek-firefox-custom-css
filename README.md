@@ -8,25 +8,25 @@ I wanted to share it because CustomCSSforFx could be a little overwhelming:) So 
 
 ![](screenshot-1.png)
 
-**What's with dark tabs?**
+## What's with dark tabs?
 
 Dark tabs are unloaded tabs. It's very helpful to differentiate them if you have many tabs open. 
 
-**How to apply styles**
+## How to apply styles
 
 Just copy paste all files from chrome folder to your Firefox chrome folder in browser profile. To find profile location type about:support in address bar. Find Profile Folder > click on Open folder. There you'll find chrome folder.
 
 userChrome.css - this is main file for css styles. But this version imports (connects) other files.
 
-In order to have exact same look you'll also need [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). And compact density enabled in Customize Toolbar. 
+**In order to have exact same look** you'll also need [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). And compact density enabled in Customize Toolbar. 
 
-**Disclaimer**
+## Disclaimer
 
 Changes I made in this code are far from optimized. Just sharing what I use personally. I do update it. But mostly when browser update breaks something.
 
 Tested on version 91. 
 
-**userContent.css**
+## userContent.css
 
 I also threw here my version on userContent.css. Unlike userChrome.css this file changes pages content. But it can also change Firefox devtools. 
 
