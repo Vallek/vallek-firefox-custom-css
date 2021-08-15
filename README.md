@@ -1,6 +1,6 @@
 # My custom Firefox UI styles
 
-This is content of my Firefox "chrome" folder with custom css. It is mostly consists of amazing [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) project + couple small tweaks and css from other sources. 
+This is a content of my Firefox "chrome" folder with custom css. It is mostly consists of amazing [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) project + couple small tweaks and css from other sources. 
 
 The goal of this specific styles is to bring classic Firefox look. My main focus was tabs and url bar. But there are some other tweaks.
 
