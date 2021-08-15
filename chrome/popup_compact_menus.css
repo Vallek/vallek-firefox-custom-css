@@ -1,0 +1,53 @@
+/* Firefox userChrome.css tweaks ********************************************************/
+/* Github: https://github.com/aris-t2/customcssforfx ************************************/
+/****************************************************************************************/
+
+
+.subview-subheader,
+panelview .toolbarbutton-1,
+.subviewbutton,
+.widget-overflow-list .toolbarbutton-1 {
+  margin: 0 !important;
+  min-height: 0 !important;
+  padding: 2px !important;
+}
+	
+menupopup > menuitem,
+menupopup > menu {
+  padding-block: 3px !important;
+  padding-inline-start: 10px !important;
+}
+
+.panel-subview-body {
+  padding: 0px !important;
+}
+
+* menupopup,
+:is(menupopup, panel)[type=arrow] {
+  --panel-padding: 0px !important;
+}
+
+
+#context-navigation :is(#context-back,#context-forward,#context-reload,#context-stop,#context-bookmarkpage) {
+  padding: 2px !important;
+  margin-inline-start: -6px !important;
+}
+
+:is(#context-back,#context-forward,#context-reload,#context-stop,#context-bookmarkpage) image {
+  margin: 0 !important;
+  padding: 0 !important;
+  padding-inline-start: 4px !important;
+  height: 18px !important;
+}
+
+/* support for context_bfrsb_labels_with_icons.css */
+@media (-moz-os-version:windows-win10), (-moz-os-version:windows-win8), (-moz-os-version:windows-win7) {
+
+  menugroup#context-navigation > menuitem.menuitem-iconic > hbox.menu-iconic-left > .menu-iconic-icon {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	margin-inline-start: 8px !important;
+	margin-inline-end: 8px !important;
+  }
+
+}

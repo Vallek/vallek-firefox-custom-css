@@ -1,0 +1,6 @@
+@font-face { font-family: 'Segoe UI'; src: local('Arial'); }
+@-moz-document url-prefix(chrome://devtools/content/) {
+  #inspector-breadcrumbs-toolbar {
+        display: none !important;
+    }
+}
