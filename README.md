@@ -4,7 +4,7 @@ This is a content of my Firefox "chrome" folder with custom css. It is mostly co
 
 The goal of this specific styles is to bring classic Firefox look. My main focus was tabs and url bar. But there are some other tweaks.
 
-I wanted to share it because CustomCSSforFx could be a little overwhelming:) So if you like my Firefox look (check the screenshot) that you can just use mine.
+I wanted to share it because CustomCSSforFx could be a little overwhelming:) So if you like my Firefox look (check the screenshot) than you can just use mine.
 
 ![](screenshot-1.png)
 
