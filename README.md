@@ -24,6 +24,8 @@ In order to have exact same look you'll also need [XP Classic Theme](https://add
 
 Changes I made in this code are far from optimized. Just sharing what I use personally. I do update it. But mostly when browser update breaks something.
 
+Tested on version 91. 
+
 **userContent.css**
 
 I also threw here my version on userContent.css. Unlike userChrome.css this file changes pages content. But it can also change Firefox devtools. 
