@@ -8,11 +8,17 @@ I wanted to share it because CustomCSSforFx could be a little overwhelming:) So 
 
 ![](screenshot-1.png)
 
+**What's with dark tabs?**
+Dark tabs are unloaded tabs. It's very helpful to differentiate them if you have many tabs open. 
+
 **How to apply styles**
 
 Just copy paste all files to your Firefox chrome folder in browser profile folder. To find it type about:support in address bar. Find Profile Folder > click on Open folder. There you'll find chrome folder.
 
 userChrome.css - this is main file for css styles. But this version imports (connects) other files.
+
+**Disclaimer**
+Changes I made in this code is far from optimized. Just sharing what I use personally. I do update it. But mostly when update breaks something.
 
 **userContent.css**
 
