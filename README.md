@@ -13,6 +13,7 @@ Just copy paste all files to your Firefox chrome folder in browser profile folde
 userChrome.css - this is main file for css styles. But this version imports (connects) other files.
 
 **userContent.css**
+
 I also threw here my version on userContent.css. Unlike userChrome.css this file changes pages content. But it can also change Firefox devtools. 
 
 I have two tweaks there. Change Segoi UI font to Arial. I just hate it:) But you can change it to anything you have on your pc.
