@@ -7,7 +7,7 @@
 /* Variables are set inside '.\config\' folders CSS files, if complete package is used! */
 
 :root {
-  --classic_squared_tabs_tab_height: 26px;
+  --classic_squared_tabs_tab_height: 28px;
   --classic_squared_tabs_tab_default_loading_icon_color: #0A84FF;
   --classic_squared_tabs_active_tab: linear-gradient(to top,#f9f9fa,#f9f9fa,#f9f9fa);
   --classic_squared_tabs_hovered_tabs: linear-gradient(to top,#cac7c1,#d5d2cc,#e8e6e2);
