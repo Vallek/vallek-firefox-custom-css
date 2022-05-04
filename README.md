@@ -16,7 +16,7 @@ Dark tabs are unloaded tabs. It's very helpful to differentiate them if you have
 
 Just copy paste all files from chrome folder to your Firefox chrome folder in browser profile. To find profile location type about:support in address bar. Find Profile Folder > click on Open folder. There you'll find chrome folder.
 
-userChrome.css - this is main file for css styles. But this version imports (connects) other files.
+userChrome.css - this is the main file for css styles. It imports (connects) other files.
 
 **In order to have exact same look** you'll also need [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). And compact density enabled in Customize Toolbar. 
 
@@ -24,7 +24,7 @@ userChrome.css - this is main file for css styles. But this version imports (con
 
 Changes I made in this code are far from optimized. Just sharing what I use personally. I do update it. But mostly when browser update breaks something.
 
-Updated for Firefox 100. 
+**Updated for Firefox 100.** 
 
 ## userContent.css
 
