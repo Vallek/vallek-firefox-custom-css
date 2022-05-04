@@ -1,4 +1,10 @@
 @font-face { font-family: 'Segoe UI'; src: local('Arial'); }
+
+/* Classic links underline */
+a {
+  text-decoration-skip-ink: none !important;
+}
+
 @-moz-document url-prefix(chrome://devtools/content/) {
   #inspector-breadcrumbs-toolbar {
         display: none !important;
