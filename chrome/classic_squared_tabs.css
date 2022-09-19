@@ -551,3 +551,8 @@
 .tabbrowser-tab .tab-content {
   background-color: #ebe8e4 !important;
 }
+
+/* Lower tab height since 104 */
+.tab-label-container {
+  height: 28px !important;
+}
