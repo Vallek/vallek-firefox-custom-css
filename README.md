@@ -24,7 +24,7 @@ userChrome.css - this is the main file for css styles. It imports (connects) oth
 
 Changes I made in this code are far from optimized. Just sharing what I use personally. I do update it. But mostly when browser update breaks something.
 
-**Updated for Firefox 100.** 
+**Updated for Firefox 104.** 
 
 ## userContent.css
 
