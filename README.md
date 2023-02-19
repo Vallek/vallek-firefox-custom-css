@@ -18,11 +18,13 @@ Just copy paste all files from chrome folder to your Firefox chrome folder in br
 
 userChrome.css - this is the main file for css styles. It imports (connects) other files.
 
-**In order to have exact same look** you'll also need [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). And compact density enabled in Customize Toolbar. 
+**In order to have exact same look** you'll also need [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). And compact density enabled in Customize Toolbar (set browser.compactmode.show in about:config). 
 
 ## Disclaimer
 
-Changes I made in this code are far from optimized. Just sharing what I use personally. I do update it. But mostly when browser update breaks something.
+I generally update it only when new Firefox version breaks something. If you have a problem please open an issue here and I will check it. 
+
+CSS could be unoptimized) 
 
 **Updated for Firefox 104.** 
 
