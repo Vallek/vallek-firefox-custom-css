@@ -128,3 +128,8 @@
 #searchbar {
   border: 1px solid var(--chrome-content-separator-color) !important;
 }
+
+/* Hide extensions button */
+#unified-extensions-button {
+    display: none !important;
+}
