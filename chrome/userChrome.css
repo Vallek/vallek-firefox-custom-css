@@ -129,7 +129,7 @@
   border: 1px solid var(--chrome-content-separator-color) !important;
 }
 
-/* Hide extensions button */
+/* Hide extensions button for 111 */
 #unified-extensions-button {
     display: none !important;
 }
