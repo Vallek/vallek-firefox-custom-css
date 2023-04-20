@@ -129,7 +129,7 @@
   border: 1px solid var(--chrome-content-separator-color) !important;
 }
 
-/* Hide extensions button for 111 */
-#unified-extensions-button {
+/* Hide new extensions button. upd: can't move buttons to overflow menu any more, disabled  */
+/* #unified-extensions-button {
     display: none !important;
-}
+} */
