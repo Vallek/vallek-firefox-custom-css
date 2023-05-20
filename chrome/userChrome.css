@@ -11,14 +11,25 @@
     visibility: visible !important;
 }
 
+/* Hide separator (also line blink fix) */
+#passwordmgr-items-separator {
+    display: none !important;
+}
+
+/* Hide save page */
+#context-savepage {
+    display: none !important;
+}
+
 /* Hide context menu navigation */
-#context-navigation, #context-sep-navigation { 
-    display: none !important 
+#context-navigation, 
+#context-sep-navigation { 
+    display: none !important;
 }
 
 /* Hide "Send Link to Device" and preceding separator */
-#contentAreaContextMenu #context-sendlinktodevice, 
-#contentAreaContextMenu #context-sep-sendlinktodevice {
+#context-sendlinktodevice, 
+#context-sep-sendlinktodevice {
   display: none !important;
 }
 
@@ -28,14 +39,14 @@
 }
 
 /* Remove send to device */
-#context-sendpagetodevice, #context-sep-sendpagetodevice,
-#context-sendlinktodevice, #context-sep-sendlinktodevice,
-#context_sendTabToDevice, #context_sendTabToDevice_separator {
+#context-sendpagetodevice, 
+#context-sep-sendpagetodevice,
+#context_sendTabToDevice, 
+#context_sendTabToDevice_separator {
   display: none !important;
 }
 
 /* Hide close button */
-
 #tabbrowser-tabs .tabbrowser-tab[visuallyselected="true"] .tab-close-button { display:none!important; }
 
 /* Unchonk search one-offs. */
