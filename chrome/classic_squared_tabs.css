@@ -552,6 +552,11 @@
   background-color: #ebe8e4 !important;
 }
 
+/* White shadow centered and wider for better readability */
+.tabbrowser-tab[pending="true"] .tab-content {
+  text-shadow: 0 0 3px white !important;
+}
+
 /* Lower tab height since 104 */
 .tab-label-container {
   height: 28px !important;
