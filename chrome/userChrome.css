@@ -81,3 +81,8 @@
 /* #unified-extensions-button {
     display: none !important;
 } */
+
+/* More pronounced border between tabs and urlbar */
+#nav-bar {
+	border-top: 0.01px var(--tabs-navbar-separator-style) light-dark(rgba(0,0,0,.3), rgba(0,0,0,.3));
+}
