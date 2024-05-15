@@ -649,18 +649,17 @@
   display: none !important;
 }
 
-/* Unloaded tabs bold font */
-.tabbrowser-tab[pending="true"] .tab-content {
-  font-weight: bold !important;
-  background-color: #949089 !important;
-}
-
+/* No text shadow on not active loaded tabs */
 .tabbrowser-tab .tab-content {
+  text-shadow: none !important;
   background-color: #ebe8e4 !important;
 }
 
-/* White shadow centered and wider for better readability */
+/* Unloaded tabs bold font */
+/* White shadow centered and wider for better readability on unloaded tabs */
 .tabbrowser-tab[pending="true"] .tab-content {
+  font-weight: bold !important;
+  background-color: #949089 !important;
   text-shadow: 0 0 3px white !important;
 }
 
