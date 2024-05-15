@@ -1,8 +1,9 @@
 @import "classic_squared_tabs.css";
+@import "tabs_container_indicator_for_classic_squared_tabs.css";
+@import "ac_popup_megabar_compact_results.css";
+@import "megabar_expanding_breakout_disabled.css";
 @import "popup_compact_menus.css";
 @import "appbutton_popup_icons.css";
-@import "ac_popup_megabar_compact_results.css";
-@import "tabs_container_indicator_for_classic_squared_tabs.css";
 
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
