@@ -625,9 +625,7 @@
   opacity: 1.0 !important;
 }
 
-
-
-
+/* Vallek additional styles */
 /* Tabs disable fade out */
 .tab-label-container[textoverflow]:not([pinned]) {
   mask-image: unset !important;
