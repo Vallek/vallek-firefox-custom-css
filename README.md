@@ -20,6 +20,8 @@ userChrome.css - this is the main file for css styles. It imports (connects) oth
 
 **In order to have exact same look** you'll also need [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). And compact density enabled in Customize Toolbar (set browser.compactmode.show true in about:config). 
 
+I also highly recommend TabMixPlus extension for useful tab features https://onemen.github.io/tabmixplus-docs/
+
 ## Disclaimer
 
 I generally update it only when new Firefox version breaks something. If you have a problem please open an issue here and I will check it. 
