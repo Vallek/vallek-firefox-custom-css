@@ -28,7 +28,7 @@ I generally update it only when new Firefox version breaks something. If you hav
 
 CSS could be unoptimized) 
 
-**Updated for Firefox 140** 
+**Updated for Firefox 145** 
 
 ## userContent.css
 
