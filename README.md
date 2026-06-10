@@ -39,3 +39,5 @@ I have two tweaks there. Change Segoi UI font to Arial. I just hate it:) But you
 Second tweak is for devtools. It removes breadcrumbs which always disturbs me.
 
 If you don't need any of that just ignore this file.
+
+[Support me of boosty](https://boosty.to/vallek) if you like this style)
