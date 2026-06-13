@@ -18,9 +18,11 @@ Just copy paste all files from chrome folder to your Firefox chrome folder in br
 
 userChrome.css - this is the main file for css styles. It imports (connects) other files.
 
-**In order to have exact same look** you'll also need [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). And compact density enabled in Customize Toolbar (set browser.compactmode.show true in about:config). 
-
-I also highly recommend TabMixPlus extension for useful tab features https://onemen.github.io/tabmixplus-docs/
+## In order to have exact same look you'll also need 
+1. [XP Classic Theme](https://addons.mozilla.org/en-US/firefox/addon/xp-classic-theme/). 
+2. Enable Menu bar 
+3. Enable compact density in Customize Toolbar (set browser.compactmode.show true in about:config). 
+4. I also use TabMixPlus extension for useful tab features that can affect the looks https://onemen.github.io/tabmixplus-docs/
 
 ## Disclaimer
 
@@ -28,7 +30,7 @@ I generally update it only when new Firefox version breaks something. If you hav
 
 CSS could be unoptimized) 
 
-**Updated for Firefox 145** 
+**Updated for Firefox 151** 
 
 ## userContent.css
 
